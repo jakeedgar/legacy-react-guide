@@ -129,6 +129,8 @@ export default App;
   * Run the following code to install the correct dependencies. 
     * ```npm i --legacy-peer-deps```
     * ```npm i react-scripts```
+  * At this point you have a functioning React project. In order to run it in the browser, access the scripts with the following run command:
+    * ```npm run start```
 
 ## COMMENTS OR QUESTIONS  👈
   * This guide was designed to be used specifically with the Epicodus React course section. If there are any questions feel free to email me: ```jakeedgar1012@gmail.com```
